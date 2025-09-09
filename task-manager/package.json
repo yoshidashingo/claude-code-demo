@@ -1,0 +1,21 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "private": true,
+  "description": "世界一シンプルなタスク管理アプリ",
+  "scripts": {
+    "dev": "pnpm --parallel dev",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "lint": "pnpm -r lint",
+    "format": "pnpm -r format"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
