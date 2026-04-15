@@ -1,0 +1,148 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776137315770,
+  "projectRoot": "/Users/shingo/Documents/GitHub/claude-code-demo",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "backend": {
+      "path": "backend",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1776137315761,
+      "keyFiles": [
+        "nodemon.json",
+        "package-lock.json",
+        "package.json",
+        "tsconfig.json"
+      ]
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 5,
+      "lastAccessed": 1776137315761,
+      "keyFiles": [
+        "design.md",
+        "product.md",
+        "requirements.md",
+        "structure.md",
+        "tech.md"
+      ]
+    },
+    "frontend": {
+      "path": "frontend",
+      "purpose": null,
+      "fileCount": 13,
+      "lastAccessed": 1776137315761,
+      "keyFiles": [
+        "README.md",
+        "eslint.config.js",
+        "index.html",
+        "package-lock.json",
+        "package.json"
+      ]
+    },
+    "task-manager-app": {
+      "path": "task-manager-app",
+      "purpose": null,
+      "fileCount": 10,
+      "lastAccessed": 1776137315761,
+      "keyFiles": [
+        "README.md",
+        "eslint.config.js",
+        "index.html",
+        "package-lock.json",
+        "package.json"
+      ]
+    },
+    "backend/src": {
+      "path": "backend/src",
+      "purpose": "Source code",
+      "fileCount": 2,
+      "lastAccessed": 1776137315761,
+      "keyFiles": [
+        "app.ts",
+        "server.ts"
+      ]
+    },
+    "frontend/public": {
+      "path": "frontend/public",
+      "purpose": "Public files",
+      "fileCount": 1,
+      "lastAccessed": 1776137315762,
+      "keyFiles": [
+        "vite.svg"
+      ]
+    },
+    "frontend/src": {
+      "path": "frontend/src",
+      "purpose": "Source code",
+      "fileCount": 4,
+      "lastAccessed": 1776137315762,
+      "keyFiles": [
+        "App.tsx",
+        "index.css",
+        "main.tsx"
+      ]
+    },
+    "task-manager-app/public": {
+      "path": "task-manager-app/public",
+      "purpose": "Public files",
+      "fileCount": 1,
+      "lastAccessed": 1776137315762,
+      "keyFiles": [
+        "vite.svg"
+      ]
+    },
+    "task-manager-app/src": {
+      "path": "task-manager-app/src",
+      "purpose": "Source code",
+      "fileCount": 4,
+      "lastAccessed": 1776137315762,
+      "keyFiles": [
+        "App.css",
+        "App.tsx",
+        "index.css"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "scripts/delete_slack_bot_messages.py",
+      "accessCount": 7,
+      "lastAccessed": 1776138629822,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

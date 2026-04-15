@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls ~/.claude/skills/learned/ && ls ~/.claude/skills/omc-reference/ && head -30 ~/.claude/skills/learned/$(ls ~/.claude/skills/learned/ | head -1) 2>/dev/null\",\"description\":\"Check user ski...",
+  "error": "Exit code 1\nSKILL.md",
+  "timestamp": "2026-04-14T05:35:20.431Z",
+  "retry_count": 1
+}
